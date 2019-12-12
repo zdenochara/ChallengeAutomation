@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e2f42e55-cb94-4b22-8e94-4807920d126c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UsGxVmKAcFYx98BaJB6WVbkdYI" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../softry" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Softray PC\Desktop\Challenge\tests\Drivers" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.UItestCases.TC_5">
+    <configuration name="C:/Users/Softray PC/Desktop/Challenge/tests/runTests.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/tests/runTests.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UItestCases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UItestSuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UItestSuites" />
+      <option name="MAIN_CLASS_NAME" value="UItestSuites.UItestCases" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UItestCases.TC_5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UItestSuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UItestSuites" />
+      <option name="MAIN_CLASS_NAME" value="UItestSuites.UItestCases" />
+      <option name="METHOD_NAME" value="TC_5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UItestCases.TC_6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UItestSuites.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="UItestSuites" />
+      <option name="MAIN_CLASS_NAME" value="UItestSuites.UItestCases" />
+      <option name="METHOD_NAME" value="TC_6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="negTest.TC_6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="tests" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="negTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="negTest" />
+      <option name="MAIN_CLASS_NAME" value="negTest.negTest" />
+      <option name="METHOD_NAME" value="TC_6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.UItestCases.TC_5" />
+        <item itemvalue="TestNG.negTest.TC_6" />
+        <item itemvalue="TestNG.UItestCases" />
+        <item itemvalue="TestNG.C:/Users/Softray PC/Desktop/Challenge/tests/runTests.xml" />
+        <item itemvalue="TestNG.UItestCases.TC_6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2f42e55-cb94-4b22-8e94-4807920d126c" name="Default Changelist" comment="" />
+      <created>1576138135853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576138135853</updated>
+    </task>
+    <servers />
+  </component>
+</project>
